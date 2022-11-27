@@ -1,2 +1,2 @@
-# TTGO-T-Display-BLE-WIFI-Scanner
-TTGO T Display BLE WIFI Scanner Platfromio
+# TTGO T-Display BLE WIFI Scanner
+ Platfromio build out 
